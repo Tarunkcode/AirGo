@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32126.315
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AirGo.Web", "AirGo.Web\AirGo.Web.csproj", "{2890E5AC-C44B-4D65-847E-497AEA26566A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AirGo.Services", "AirGo.Services\AirGo.Services.csproj", "{B7E55A50-9150-4059-AB2E-596DA0E1EFFD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2890E5AC-C44B-4D65-847E-497AEA26566A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2890E5AC-C44B-4D65-847E-497AEA26566A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2890E5AC-C44B-4D65-847E-497AEA26566A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2890E5AC-C44B-4D65-847E-497AEA26566A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B7E55A50-9150-4059-AB2E-596DA0E1EFFD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B7E55A50-9150-4059-AB2E-596DA0E1EFFD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B7E55A50-9150-4059-AB2E-596DA0E1EFFD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B7E55A50-9150-4059-AB2E-596DA0E1EFFD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {469C37D2-991C-4716-A979-ED8AE8EA705F}
+	EndGlobalSection
+EndGlobal
